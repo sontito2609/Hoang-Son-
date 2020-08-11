@@ -1,0 +1,33 @@
+
+.adding{
+    text-align: left;
+    margin-left: 20px;
+    font-size: 25px;
+    color: rgb(3, 3, 3);
+}
+.header {
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: tomato;
+}
+.searching{
+    text-align: left;
+    margin-left: 20px;
+    font-size: 25px;
+    color: rgb(3, 3, 3);
+}
+.article{
+    float: center;
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+    color: black;
+}
+.footer{
+    padding: 30px;
+    text-align: center;
+    font-size: 25px;
+    color: tomato;
+}
